@@ -1,6 +1,6 @@
-# document-builder-actions
+# document-builder GitHub Action
 
-GitHub Actions for building LaTeX and Markdown documents using a Makefile.
+GitHub Action for building LaTeX and Markdown documents using a Makefile.
 
 ## Base image
 
